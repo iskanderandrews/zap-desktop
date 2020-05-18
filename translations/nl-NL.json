@@ -691,5 +691,5 @@
   "reducers.payment.no_route": "",
   "reducers.payment.succeeded": "",
   "reducers.payment.terminated_early": "",
-  "reducers.payment.unknown": "Onbekend"
+  "reducers.payment.unknown": ""
 }
